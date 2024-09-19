@@ -39,6 +39,14 @@ Linux distributions (distros) are customized versions of Linux tailored to speci
 
 ---
 
+## Describe the Differences Between Various Distributions
+
+- **Linux Mint** is built on Ubuntu/Debian and designed for simplicity, making it perfect for users switching from Windows. It features the Cinnamon desktop, pre-installed software, and media codecs, offering a familiar experience for Windows users.
+  
+- **Zorin OS** is also based on Ubuntu and provides an easy transition for users migrating from Windows or macOS. It offers a polished, customizable interface similar to those systems, making it highly user-friendly, although it has a smaller community and some paid features.
+
+---
+
 ## Section 3: Basic Linux Commands
 
 Here are some essential Linux commands to get started:
