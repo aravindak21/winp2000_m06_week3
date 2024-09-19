@@ -70,7 +70,7 @@ Here are some essential Linux commands to get started:
 | `man`     | Displays the manual for a command                |
 | `sudo`    | Runs a command as a superuser                    |
 | `df -h`   | Shows disk space usage                           |
-| `free`    | Displays memory usage                            |
+| `rm -rf`  | Removes files or directories recursively and forcibly |
 
 ---
 
