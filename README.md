@@ -77,3 +77,11 @@ Here are some essential Linux commands to get started:
 ## Conclusion 
 
 This document aims to improve team members' understanding of Linux, covering its history, distributions, and essential commands. Creating a Git repository and documenting these learnings using Markdown helps gain valuable skills in Linux, Git, and version control, while fostering collaboration and technical writing skills.
+
+---
+
+## References
+
+1. [Linux explained: Distributions, differences, benefits, security - Zenarmor.com (2023, October 12)](https://www.zenarmor.com/docs/linux-tutorials/what-is-linux)
+2. [Linux Foundation - Decentralized innovation, built with trust](https://www.linuxfoundation.org/)
+
