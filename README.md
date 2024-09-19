@@ -51,8 +51,6 @@ Linux distributions (distros) are customized versions of Linux tailored to speci
 
 Here are some essential Linux commands to get started:
 
-Here are some essential Linux commands to get started:
-
 - `ls`: Lists files and directories in the current directory.
 - `cd`: Changes the current directory.
 - `pwd`: Prints the current working directory.
