@@ -51,26 +51,27 @@ Linux distributions (distros) are customized versions of Linux tailored to speci
 
 Here are some essential Linux commands to get started:
 
-| Command   | Description                                      |
-|-----------|--------------------------------------------------|
-| `ls`      | Lists files and directories in the current dir.  |
-| `cd`      | Changes the current directory                    |
-| `pwd`     | Prints the current working directory             |
-| `mkdir`   | Creates a new directory                          |
-| `rmdir`   | Removes an empty directory                       |
-| `rm`      | Removes files                                    |
-| `cp`      | Copies files                                     |
-| `mv`      | Moves or renames files or directories            |
-| `touch`   | Creates an empty file or updates file timestamp  |
-| `cat`     | Concatenates and displays file content           |
-| `chmod`   | Changes file or directory permissions            |
-| `ps`      | Displays information about active processes      |
-| `top`     | Shows system processes and resource usage        |
-| `grep`    | Searches for patterns in files                   |
-| `man`     | Displays the manual for a command                |
-| `sudo`    | Runs a command as a superuser                    |
-| `df -h`   | Shows disk space usage                           |
-| `rm -rf`  | Removes files or directories recursively and forcibly |
+Here are some essential Linux commands to get started:
+
+- `ls`: Lists files and directories in the current directory.
+- `cd`: Changes the current directory.
+- `pwd`: Prints the current working directory.
+- `mkdir`: Creates a new directory.
+- `rmdir`: Removes an empty directory.
+- `rm`: Removes files.
+- `rm -rf`: Removes files or directories recursively and forcibly.
+- `cp`: Copies files.
+- `mv`: Moves or renames files or directories.
+- `touch`: Creates an empty file or updates the file timestamp.
+- `cat`: Concatenates and displays file content.
+- `chmod`: Changes file or directory permissions.
+- `ps`: Displays active processes.
+- `top`: Shows system processes and resource usage.
+- `grep`: Searches for patterns in files.
+- `man`: Displays the manual for a command.
+- `sudo`: Runs a command as a superuser.
+- `df -h`: Shows disk space usage.
+- `free`: Displays memory usage.
 
 ---
 
